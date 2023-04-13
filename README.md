@@ -12,7 +12,11 @@ Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o
 - [x] CRUD de pacientes;
 
 ---
+## 🎨 Layout
 
+O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
+
+---
 ## 🛠 Tecnologias
 
 As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
